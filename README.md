@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋
-My name is Anh Cong. I am a student in Telecommunications and Electronics, majoring in Computer Engineering at Hanoi University of science and technology university. I am interested in Java Backend and would like to have the opportunity to learn and work with it.<br>
+My name is Anh Cong. I am a student in Telecommunications and Electronics, majoring in Computer Engineering at Hanoi University of science and technology university. I am interested in Java Backend and would like to have the opportunity to learn and work with it. Thanks!<br>
 ### My projects:
 
 <a href="https://github.com/AnhCong0911/MCEW-algorithm-design/">
