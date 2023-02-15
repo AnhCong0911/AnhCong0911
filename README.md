@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋👋👋
+My name is Anh Cong. I am a student in Telecommunications and Electronics, majoring in Computer Engineering at Hanoi University of science and technology university. I am interested in Java Backend and would like to have the opportunity to learn and work with it.<br>
+### My projects:
 
-<!--
-**AnhCong0911/AnhCong0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/AnhCong0911/MCEW-algorithm-design/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhCong0911&repo=MCEW-algorithm-design&theme=radical" />
+</a>    
+<a href="https://github.com/AnhCong0911/Fuel-Pump-Control-Embedded-System/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhCong0911&repo=Fuel-Pump-Control-Embedded-System&theme=merko" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AnhCong0911/Weather-app">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhCong0911&repo=Weather-app&theme=gruvbox" />
+</a>
